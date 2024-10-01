@@ -1,0 +1,4 @@
+cmake
+opencv-python
+Pillow
+face_recognition

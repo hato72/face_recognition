@@ -3,11 +3,8 @@ import datetime
 import pickle
 import numpy as np
 import os
-import tkinter as tk
 import cv2
-from PIL import Image, ImageTk
 import face_recognition
-import util
 from fastapi import FastAPI, File, UploadFile,Form
 from fastapi.middleware.cors import CORSMiddleware
 

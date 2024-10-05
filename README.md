@@ -18,7 +18,7 @@ python server.py
 
 #### dlibのインストール
 ```sh
-pip install cmake
+pip install -r requirements.txt
 cd C:\
 rmdir /s /q dlib
 git clone https://github.com/davisking/dlib

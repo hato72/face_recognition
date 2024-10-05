@@ -1,10 +1,11 @@
-### face_recognition
+### face_recognition(サンプル)
 ```sh
 face_recognition C:/Users/hatot/.vscode/face_recognition/examples/known_peoples C:/Users/hatot/.vscode/face_recognition/examples/unknown_peoples
 ```
 ### スタンドアロン型
+```
 python main.py
-
+```
 ### webアプリ型
 ```sh
 cd frontend
@@ -15,7 +16,7 @@ npm run dev
 cd backend
 python server.py
 ```
-
+### インストール手順
 #### dlibのインストール
 ```sh
 pip install -r requirements.txt

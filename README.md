@@ -1,6 +1,7 @@
 ### face_recognition
+```sh
 face_recognition C:/Users/hatot/.vscode/face_recognition/examples/known_peoples C:/Users/hatot/.vscode/face_recognition/examples/unknown_peoples
-
+```
 ### スタンドアロン型
 python main.py
 
